@@ -1,6 +1,6 @@
 # Hi there, I'm Kornel! 👋 
 
-### 🚀 Senior/Regular Backend Developer | JVM & Cloud Specialist
+### 🚀 Backend Developer | JVM & Cloud Specialist
 Crafting high-performance backend systems since **2020**. My core expertise lies in building scalable architectures using **Spring Boot** and **Java**, with a strong focus on distributed systems and cloud-native solutions.
 
 ---
