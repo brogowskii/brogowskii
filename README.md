@@ -1,7 +1,7 @@
-# Hi there, I'm [Twoje Imię]! 👋 
+# Hi there, I'm Kornel! 👋 
 
-### 🚀 Senior/Regular Backend Developer (JVM Specialist)
-Od 2020 roku buduję wydajne systemy, gdzie **Spring Boot** i **Java** grają główne role. Skupiam się na architekturze mikroserwisowej i nowoczesnym podejściu do chmury.
+### 🚀 Senior/Regular Backend Developer | JVM & Cloud Specialist
+Crafting high-performance backend systems since **2020**. My core expertise lies in building scalable architectures using **Spring Boot** and **Java**, with a strong focus on distributed systems and cloud-native solutions.
 
 ---
 
@@ -15,6 +15,10 @@ Od 2020 roku buduję wydajne systemy, gdzie **Spring Boot** i **Java** grają g�
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+**Messaging & Streaming**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -30,10 +34,11 @@ Od 2020 roku buduję wydajne systemy, gdzie **Spring Boot** i **Java** grają g�
 ---
 
 ### 📖 Professional Focus
-*   **Java Specialist:** Głęboka znajomość ekosystemu Java (od wersji 8 do najnowszych LTS).
-*   **Spring Ecosystem:** Spring Security, Data, Cloud – to moje naturalne środowisko.
-*   **Microservices:** Projektowanie skalowalnych systemów rozproszonych.
-*   **Cloud Native:** Konteneryzacja i orkiestracja (Docker & K8s) to dla mnie standard, nie dodatek.
+*   **Java Ecosystem:** Deep dive into Java 8-21+, focusing on modern features and JVM tuning.
+*   **Spring Specialist:** Extensive experience with Spring Security, Data, Cloud, and WebFlux.
+*   **Event-Driven Architecture:** Implementing asynchronous communication using **Apache Kafka** and RabbitMQ.
+*   **Infrastructure as Code:** Moving beyond the code – containerizing services and orchestrating with K8s.
+*   **Clean Code & Design Patterns:** Prioritizing maintainability, SOLID principles, and TDD.
 
 ---
 
@@ -45,6 +50,9 @@ Od 2020 roku buduję wydajne systemy, gdzie **Spring Boot** i **Java** grają g�
 
 ---
 
-### 📫 Contact me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TWOJ-LINK)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twoj@email.com)
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
